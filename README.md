@@ -3,7 +3,7 @@
 
 # <p align="center">📝 n0tepad - A modern web-based easy to use notepad.
 
-<p align="center"><b>An open-source, free way to take notes.
+<p align="center"><b>An open-source and free way to take notes.
 
 <p align="center"><a href="https://n0tepad.vercel.app/"><img src="https://i.imgur.com/LEZ5xLb.png" /></a>
 
